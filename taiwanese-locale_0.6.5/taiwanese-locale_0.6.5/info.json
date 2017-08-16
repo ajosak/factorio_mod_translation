@@ -1,0 +1,11 @@
+{
+  "name": "taiwanese-locale",
+  "version": "0.6.5",
+  "title": "Taiwanese locale for some mods",
+  "author": "ajosak",
+  "factorio_version": "0.15",
+  "description": "A collection of modules regional language packs.",
+  "dependencies": [
+	  "base >= 0.15.0"
+  ]
+}

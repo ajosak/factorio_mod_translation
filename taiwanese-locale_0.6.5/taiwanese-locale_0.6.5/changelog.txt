@@ -1,0 +1,76 @@
+v0.1.0
+-   added translation for  Aircraft     			    to version 1.3.7
+-   added translation for  air-filtering     		    to version 0.5.0
+-   added translation for  autofill     			    to version 1.4.8
+-   added translation for  BetterBelts     		        to version 1.1.3
+-   added translation for  BigBags     			        to version 1.0.25
+-   added translation for  Big Poles     		        to version 0.1.2
+-   added translation for  Bio_Industries     		    to version 1.7.0
+-   added translation for  cardinal     			    to version 0.1.1
+-   added translation for  Electric Furnaces     	    to version 2.3.0
+-   added translation for  ElectricTrain     		    to version 0.15.4
+-   added translation for  EvoGUI     			        to version 0.4.205
+-   added translation for  Factorissimo2     		    to version 2.1.7
+-   added translation for  Flow Control     		    to version 3.0.2
+-   added translation for  folk-stopthat     		    to version 0.1.2
+-   added translation for  MiningTools     		        to version 1.0.35
+-   added translation for  OmegaDrill     		        to version 0.1.3
+-   added translation for  Orphan Finder     		    to version 1.0.5
+-   added translation for  Osmosis_Grouping     		to version 0.1.2
+-   added translation for  quick-start     		        to version 1.1.0
+-   added translation for  Robot_Battery_Research     	to version 0.1.0
+-   added translation for  rso-mod     			        to version 3.3.9
+-   added translation for  Single-Splitter     		    to version 0.0.12
+-   added translation for  SmartDisplayRedux     	    to version 1.1.1
+-   added translation for  StorageTank2     		    to version 0.2.2
+-   added translation for  TimeTools     		        to version 1.0.29
+-   added translation for  UnminableRobots     		    to version 1.0.1
+-   added translation for  Warehousing v15     		    to version 0.0.13
+-   added translation for  Waterfill_v15     		    to version 0.1.2
+
+v0.2.0
+-   added translation for Flare Stack    		        to version 2.1.4
+
+v0.3.0
+-   added translation for Art's Fusion Reactor    	    to version 0.0.1
+-   added translation for PowerAndArmor    		        to version 1.15.17
+-   added translation for YARM    			            to version 0.7.203
+
+v0.3.1
+-   Updated translation for  Bio_Industries     		to version 1.7.2
+
+v0.3.2
+-   Updated translation for PowerAndArmor               to version 1.15.17
+
+v0.4.2
+-   added translation for tankwerkz                     to version 3.0.0
+
+v0.4.3
+-   changed translation for BetterBelts    
+-   changed translation for Osmosis_Grouping    
+-   changed translation for PowerAndArmor    
+
+v0.5.3
+-   added translation for FARL                          to version 1.1.6
+-   added translation for BridgeRailway                 to version 2.0.4
+-   added translation for BetterBeacons                 to version 0.2.4
+-   added translation for cncs_Sulfur_Mod               to version 1.0.2
+-   added translation for Geothermal                    to version 0.0.1
+-   added translation for LoaderRedux                   to version 1.1.1
+-   added translation for Equalizer_Chests              to version 1.4.0
+-   added translation for DeepMine                      to version 0.1.0
+
+v0.5.4
+-   Updated translation for Geothermal    
+
+v0.5.5
+-   Updated translation for DeepMine                   
+-   Updated translation for Bio_Industries
+
+v0.6.5
+-   added translation for TerranBuildings               to version 1.0.0
+-   added translation for Achiever                      to version 0.2.2
+-   added translation for Skandragon's Fusion Robots    to version 1.0.0
+-   added translation for AmmoBox                       to version 1.1.5
+-   added translation for Additional-Turret             to version 0.1.8
+
