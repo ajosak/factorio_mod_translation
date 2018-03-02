@@ -1,0 +1,11 @@
+{
+  "name": "taiwanese-locale",
+  "version": "1.0.0",
+  "title": "Modules Translation for Taiwan locale",
+  "author": "ajosak",
+  "contact": "ajosak@skycg.info",
+  "factorio_version": "0.16",
+  "date": "2018-03-01",
+  "description": "Taiwan localization for some modules language packs.",
+  "dependencies": ["base"]
+}

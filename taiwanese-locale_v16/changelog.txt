@@ -1,0 +1,2 @@
+v0.1.0
+-   Updated Factorio version		     			    to version 0.1.6
