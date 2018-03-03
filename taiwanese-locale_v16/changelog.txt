@@ -28,3 +28,9 @@ v1.1.0
 -   changed translation for Aircraft
 -   changed translation for rso
 -   changed translation for YARM
+
+v1.2.1
+-	added translation for deep-core-mining			    to version 1.11.2
+-	added translation for Ultimate Belts				to version 0.16.3
+-	added translation for minimap-autohide              to version 1.0.0
+-   Updated translation for Geothermal              	to version 1.0.72
