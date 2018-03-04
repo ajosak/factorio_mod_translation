@@ -1,7 +1,7 @@
-v1.0.0
+v1.0.0_180302
 -   Updated Factorio version		     			    to version 0.1.6
 
-v1.1.0
+v1.1.0_180302
 -	added translation for LogisticTrainNetwork			to version 1.7.4
 -	added translation for miniloader					to version 1.5.11
 -	added translation for Better Bots Technologies 		to version 1.1.1
@@ -29,8 +29,14 @@ v1.1.0
 -   changed translation for rso
 -   changed translation for YARM
 
-v1.2.1
+v1.2.1_180303
 -	added translation for deep-core-mining			    to version 1.11.2
 -	added translation for Ultimate Belts				to version 0.16.3
 -	added translation for minimap-autohide              to version 1.0.0
 -   Updated translation for Geothermal              	to version 1.0.72
+
+v1.3.2-180304
+-	added translation for OreCompress                   to version 0.16.0
+-	added translation for DistancePlus                  to version 0.16.0
+-   changed translation for Bio_Industries
+-   changed translation for StorageTank2
