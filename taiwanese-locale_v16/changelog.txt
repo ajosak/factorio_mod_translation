@@ -40,3 +40,7 @@ v1.3.2-180304
 -	added translation for DistancePlus                  to version 0.16.0
 -   changed translation for Bio_Industries
 -   changed translation for StorageTank2
+
+v1.4.3-180305
+-	added translation for beltSorter                    to version 0.5.4
+-   changed translation for Robocharger
