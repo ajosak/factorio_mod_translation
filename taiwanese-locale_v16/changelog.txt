@@ -43,4 +43,9 @@ v1.3.2-180304
 
 v1.4.3-180305
 -	added translation for beltSorter                    to version 0.5.4
+-	added translation for Miner_Planner                 to version 0.10.1
 -   changed translation for Robocharger
+-   changed translation for miniloader
+-   changed translation for ZRecycling
+-   changed translation for Aircraft
+-   changed translation for BigBags
