@@ -49,3 +49,19 @@ v1.4.3-180305
 -   changed translation for ZRecycling
 -   changed translation for Aircraft
 -   changed translation for BigBags
+
+v1.5.4-180309
+-	added translation for bobmining                     to version 0.16.0
+-	added translation for boblogistics                  to version 0.16.14
+-	added translation for DP77s-Better-Basic-Craftings  to version 2.0.1
+-	added translation for Dp77s-Sulfur-Mod              to version 2.0.0
+-	added translation for artsOneKeyClear               to version 0.3.0
+-	added translation for nixie-tubes                   to version 0.16.3
+-	added translation for ScanningRadar                 to version 0.1.1
+-   Updated translation for Bio_Industries              to version 2.1.9
+-	Updated translation for LogisticTrainNetwork		to version 1.7.5
+-	Updated translation for BetterBots		            to version 1.2.0
+-   changed translation for DistancePlus
+-   changed translation for Electric Furnaces
+-   changed translation for miniloader
+-   delete translation for tankwerkz(for Factorio 0.15)
