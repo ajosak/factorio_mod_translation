@@ -65,3 +65,25 @@ v1.5.4-180309
 -   changed translation for Electric Furnaces
 -   changed translation for miniloader
 -   delete translation for tankwerkz(for Factorio 0.15)
+
+v1.6.5-180316
+-	added translation for 5dim_trains                   to version 0.16.7
+-	added translation for 5dim_core                     to version 0.16.7
+-	added translation for Additional-Turret             to version 0.2.0
+-	added translation for Combat_by_Samuel              to version 1.1.0
+-	added translation for easy_refineries               to version 16.1.0
+-	added translation for liquid-science                to version 0.1.6
+-	added translation for railloader                    to version 0.3.7
+-	added translation for TarawindBeaconsRE             to version 0.16.1
+-	added translation for Vehicle Wagon                 to version 1.2.3
+-	added translation for vtk-cannon-turret             to version 1.4.0
+-	Updated translation for artsOneKeyClear		        to version 0.5.0
+-   Updated translation for Bio_Industries              to version 2.2.5
+-   Updated translation for FARL                        to version 2.1.0
+-	Updated translation for ShinyBobGFX		            to version 0.16.15
+-	Updated translation for ScanningRadar		        to version 0.2.4
+-	changed translation for beltSorter
+-	changed translation for Dp77s-Sulfur-Mod
+-   changed translation for ElectricTrain
+-	changed translation for LogisticTrainNetwork
+-	changed translation for MiningTools

@@ -14,9 +14,10 @@ BigBags
 Big Poles
 Bio_Industries
 BridgeRailway
-cncs_Sulfur_Mod(Dp77's Sulfur Mod)
+cncs_Sulfur_Mod
 deep-core-mining
 DeepMine
+Dp77's Sulfur Mod
 Electric Furnaces
 ElectricTrain
 EvoGUI
