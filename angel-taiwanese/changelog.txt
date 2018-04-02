@@ -1,0 +1,10 @@
+v0.16.1_180402
+-	added translation for angelsaddons-pressuretanks                to version 0.3.0
+-	added translation for angelsaddons-warehouses                    to version 0.3.0
+-	added translation for angelsbioprocessing                to version 0.5.6
+-	added translation for angelsaddons-petrotrain                     to version 0.3.2
+-	added translation for angelsindustries                   to version 0.1.0
+-	added translation for angelssmelting                  to version 0.4.3
+-	added translation for angelspetrochem                   to version 0.7.7
+-	added translation for angelsrefining                   to version 0.9.10
+-	added translation for angelsinfiniteores                to version 0.7.3

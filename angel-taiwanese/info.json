@@ -1,0 +1,23 @@
+{
+  "name": "Angel-taiwanese",
+  "version": "0.16.1",
+  "title": "Angel's Addons-Taiwanese locale",
+  "author": "ajosak",
+  "contact": "ajosak@skycg.info",
+  "factorio_version": "0.16",
+  "date": "2018-04-02",
+  "description": "Angel's Modules Translation for Taiwanese.",
+  "dependencies": [
+    "? angelsaddons-oresilos",
+    "? angelsaddons-petrotrain",
+    "? angelsaddons-pressuretanks",
+    "? angelsaddons-warehouses",
+    "? angelsbioprocessing",
+    "? angelsexploration",
+    "? angelsindustries",
+    "? angelsinfiniteores",
+    "? angelspetrochem",
+    "? angelsrefining",
+    "? angelssmelting"
+  ]
+}

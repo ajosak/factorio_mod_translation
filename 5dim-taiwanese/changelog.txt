@@ -1,0 +1,16 @@
+v0.16.1_180402
+-	added translation for 5dim_transport                to version 0.16.8
+-	added translation for 5dim_trade                    to version 0.16.3
+-	added translation for 5dim_resources                to version 0.16.10
+-	added translation for 5dim_ores                     to version 0.16.3
+-	added translation for 5dim_mining                   to version 0.16.8
+-	added translation for 5dim_nuclear                  to version 0.16.6
+-	added translation for 5dim_module                   to version 0.16.4
+-	added translation for 5dim_energy                   to version 0.16.8
+-	added translation for 5dim_infiniteresearch         to version 0.16.6
+-	added translation for 5dim_equipment                to version 0.16.4
+-	added translation for 5dim_decoration               to version 0.16.4
+-	added translation for 5dim_botrecaller              to version 0.16.3
+-	added translation for 5dim_automatization           to version 0.16.6
+-	added translation for 5dim_autofill                 to version 0.16.0
+-	added translation for 5dim_trains                   to version 0.16.7

@@ -87,3 +87,10 @@ v1.6.5-180316
 -   changed translation for ElectricTrain
 -	changed translation for LogisticTrainNetwork
 -	changed translation for MiningTools
+
+v1.7.5-180316
+-	Updated translation for miniloader					to version 1.5.18
+-   Moved translation for boblogistics 
+-   Moved translation for bobmining
+-   Moved translation for 5dim_trains 
+-   Moved translation for 5dim_core  

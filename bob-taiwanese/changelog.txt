@@ -1,0 +1,16 @@
+-	added translation for bobwarfare                    to version 0.16.6
+-	added translation for bobtech                       to version 0.16.4
+-	added translation for bobpower                      to version 0.16.3
+-	added translation for bobplates                     to version 0.16.3
+-	added translation for bobores                       to version 0.16.2
+-	added translation for bobmodules                    to version 0.16.0
+-	added translation for bobinserters                  to version 0.16.7
+-	added translation for bobgreenhouse                 to version 0.16.0
+-	added translation for bobelectronics                to version 0.16.0
+-	added translation for bobassembly                   to version 0.16.1
+-	added translation for bobclasses                    to version 0.16.1
+-	added translation for bobrevamp                     to version 0.16.2
+-	added translation for bobenemies                    to version 0.16.3
+-	added translation for bobvehicleequipment           to version 0.16.2
+-	added translation for bobmining                     to version 0.16.0
+-	added translation for boblogistics                  to version 0.16.14
